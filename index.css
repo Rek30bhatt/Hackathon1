@@ -1,0 +1,114 @@
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+/* .image1{
+
+} */
+.login_form{
+    /* border:2px solid green; */
+    width: 500px;
+    
+}
+img{
+    width: 650px;
+    height: 500px;
+}
+.parent_img{
+    position: relative;
+
+}
+.twitterlogo{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.form_heading{
+   
+    margin-left: 40px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+h1,h3{
+    margin-top: -10px;
+}
+
+.inp-icon{
+    background: url(https://img.icons8.com/plasticine/2x/google-logo.png)no-repeat 100%;
+    background-size: 30px;
+ background-position:60px;
+
+ 
+
+ 
+
+
+     }
+     .inp-icon:hover{
+         background-color:#62BBF8;
+     }
+     .inp-icon1:hover{
+        background-color:#62BBF8;
+     }
+     .inp-icon2:hover{
+        background-color:#62BBF8;   
+     }
+
+     .inp-icon1{
+        background: url(https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-index-content-uploads-10.png)no-repeat 100%;
+        background-size: 20px;
+        background-position:70px;
+    
+         }
+     input{
+    border-radius: 30px;
+
+
+    padding: 2px; 
+    width: 400px;
+    height: 100px; 
+    
+}
+p{
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+
+}
+.link_color{
+    color: #0F9AFB;
+}
+footer{
+    margin-top: 10px;
+    margin-left: 30px;
+    height: 80px;
+  
+  
+}
+.links{
+    margin-left: 10px;
+   font-size: 14px;
+
+
+
+ 
+}
+a{
+    color: grey;
+}
+.link{
+
+    margin-left: 550px;
+}
+.p,link{
+    color: grey;
+}
+     
+
+
